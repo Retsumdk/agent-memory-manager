@@ -1,0 +1,8 @@
+{
+  "name": "agent-memory-manager",
+  "version": "1.0.0",
+  "description": "Memory management for AI agents",
+  "scripts": {
+    "test": "echo 'No tests' && exit 0"
+  }
+}
